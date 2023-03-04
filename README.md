@@ -1,3 +1,1 @@
-A survey from prompting the user/interviewee to state his/her experience on freeCodeCamp
-freecodecamp.org
-For easy learning about responsive web design visit the link above.
+A survey from prompting the user/interviewee to state his/her experience on freeCodeCamp as one of the Responsive Web Design Certifications
